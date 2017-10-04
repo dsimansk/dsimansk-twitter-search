@@ -2,7 +2,7 @@
 flows:
 - steps:
   - kind: endpoint
-    uri: twitter-search--KvSUw7eYMcWe1kmZueI:#syndesis?delay=30&filterOld=true
+    uri: twitter-search-connector--KvSUw7eYMcWe1kmZueI:#syndesis?delay=30&filterOld=true
   - kind: endpoint
     uri: atlas:mapping-step-2.json
   - kind: endpoint
